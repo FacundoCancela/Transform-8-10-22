@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Formi Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fec8aba639993b64d88b148ab962af09, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5d55f311fddba2d49935283c6b95f403, type: 3}
+  - {fileID: 21300000, guid: 5df38da15db63304896a1b508ab2ddd0, type: 3}
+  - {fileID: 21300000, guid: 841d2b556e60b164a8056572034a34ca, type: 3}
+  - {fileID: 21300000, guid: a8ba8975e9ac33b4d8271952ca94698b, type: 3}
+  - {fileID: 21300000, guid: fdccfd66d7d6c1f419b7ca9cd752fde1, type: 3}
+  - {fileID: 21300000, guid: aba0b0b74aa3e744d9013351e745409e, type: 3}
+  - {fileID: 21300000, guid: 2dfd9e293034a9b4dae7b3ace7466a75, type: 3}
+  - {fileID: 21300000, guid: 6753f8590b82a364fbda0a45c97bcb38, type: 3}
+  - {fileID: 21300000, guid: 82f382e9a7aac3f4d8da03b941dca43f, type: 3}
+  - {fileID: 21300000, guid: f91a6a2ce3f39b44095b6717a52572c0, type: 3}
+  - {fileID: 21300000, guid: 746c9b7d02e051446b9bd3cdae358ab3, type: 3}
+  - {fileID: 21300000, guid: fe8a113e50180c2488eb06d723a06431, type: 3}
+  - {fileID: 21300000, guid: f866df0fa5412714ea8adbafa124c1fc, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Formi Jump7
+  - Formi Jump8
+  - Formi Run2
+  - Formi Jump2
+  - Formi Run3
+  - Formi Jump5
+  - Formi Jump6
+  - Formi Jump4
+  - Formi Jump1
+  - Formi Jump3
+  - Formi Run1
+  - Formi Idle1
+  - Formi Idle2
+  m_RenderDataMap: {}
+  m_Tag: Formi Sprite Atlas
+  m_IsVariant: 0
